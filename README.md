@@ -5,4 +5,11 @@
  The user can play rock, paper and scissors with the program by numbers that represent rock, paper and scissors.
  
  ## WarehouseBookApp
- This program is designed to be used in a warehouse that stores books. It makes use of MySQL and JDBC to store books as records in a database and allows a user to access, and manipulate the database. 
+ This program (in further progress) is designed to be used in a warehouse that stores books. It makes use of MySQL and JDBC to store books as records in a database and allows a user to access, and manipulate the database. 
+ 
+ ## Tools Used
+ * [Java](https://www.java.com/en/download/) - programming language
+ * [Eclipse](https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers) - IDE
+ * [MySQL](https://dev.mysql.com/downloads/mysql/) - database language
+ * [JDK](https://www.oracle.com/technetwork/java/javase/downloads/index.html) - for Java Database Connectivity
+ 
