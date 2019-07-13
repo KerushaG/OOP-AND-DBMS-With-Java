@@ -10,6 +10,6 @@
  ## Tools Used
  * [Java](https://www.java.com/en/download/) - programming language
  * [Eclipse](https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers) - IDE
- * [MySQL](https://dev.mysql.com/downloads/mysql/) - database language
- * [JDK](https://www.oracle.com/technetwork/java/javase/downloads/index.html) - for Java Database Connectivity
+ * [SQL](https://dev.mysql.com/downloads/mysql/) - database language
+ * [JDBC](https://www.oracle.com/technetwork/java/javase/downloads/index.html) - for Java Database Connectivity
  
